@@ -1,4 +1,4 @@
-### Hey everyone, I'm Bertrand N. Atemkeng 👋
+
 
 <!--
 **Atemndobs/Atemndobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
