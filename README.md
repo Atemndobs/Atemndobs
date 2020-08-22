@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://firebasestorage.googleapis.com/v0/b/deja-vue-e67a1.appspot.com/o/avat_atem.png?alt=media&token=5827b153-5462-4301-81be-ade0777202d4" alt="banner that says Bertrand Atemkeng - Developer alongside a cartoon illustration of Atemkeng">
+<img src="https://firebasestorage.googleapis.com/v0/b/deja-vue-e67a1.appspot.com/o/avat_atem.png?alt=media&token=5827b153-5462-4301-81be-ade0777202d4">
 
 <!-- story: I recently embarked on this exciting journey of coding and every new thing I learn makes the journwey even more Exciting -->
 
