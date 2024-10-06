@@ -31,3 +31,5 @@
 [![Bertrand's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Atemndobs/Atemndobs#gh-dark-mode-only)
 [![Bertrand's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Atemndobs/Atemndobs#gh-light-mode-only)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atemndobs&hide_progress=true)
