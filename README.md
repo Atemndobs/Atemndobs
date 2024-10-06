@@ -27,6 +27,8 @@
 
 
 <!-- <img src="https://firebasestorage.googleapis.com/v0/b/deja-vue-e67a1.appspot.com/o/avat_atem.png?alt=media&token=5827b153-5462-4301-81be-ade0777202d" width="150" height="150">  -->
+
+
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <a href="https://github.com/Atemndobs/Atemndobs" style="margin-right: 20px;">
     <picture>
@@ -38,13 +40,13 @@
         srcset="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true"
         media="(prefers-color-scheme: default), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true" alt="GitHub Stats" style="max-height: 200px;"/>
     </picture>
   </a>
   
   <a href="https://github.com/Atemndobs/Atemndobs">
     <picture>
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="max-height: 200px;"/>
     </picture>
   </a>
 </div>
