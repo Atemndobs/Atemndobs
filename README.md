@@ -38,9 +38,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true"
     media="(prefers-color-scheme: default), (prefers-color-scheme: no-preference)"
   />
-
-</picture>
   <img src="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true" />
+</picture>
+
 </a>
 <a href="https://github.com/Atemndobs/Atemndobs">
   <picture>
