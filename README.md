@@ -28,9 +28,13 @@
 
 <!-- <img src="https://firebasestorage.googleapis.com/v0/b/deja-vue-e67a1.appspot.com/o/avat_atem.png?alt=media&token=5827b153-5462-4301-81be-ade0777202d" width="150" height="150">  -->
 
-<a href="https://github.com/Atemndobs/Atemndobs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Atemndobs" />
-</a>
-<a href="https://github.com/Atemndobs/Atemndobs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <a href="https://github.com/Atemndobs/Atemndobs" style="margin-right: 20px;">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/Atemndobs/Atemndobs">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
