@@ -28,10 +28,6 @@
 
 <!-- <img src="https://firebasestorage.googleapis.com/v0/b/deja-vue-e67a1.appspot.com/o/avat_atem.png?alt=media&token=5827b153-5462-4301-81be-ade0777202d" width="150" height="150">  -->
 
-![Bertrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=gruvbox)
-![Bertrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=tokyonight)
-![Bertrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=dracula)
-![Bertrand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=cobalt)
-
-[![Bertrand's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/Atemndobs/github-readme-stats#gh-dark-mode-only)
+[![Bertrand's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/Atemndobs/Atemndobs#gh-dark-mode-only)
+[![Bertrand's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Atemndobs/Atemndobs#gh-light-mode-only)
 
