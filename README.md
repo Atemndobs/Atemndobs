@@ -39,9 +39,9 @@
     media="(prefers-color-scheme: default), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Atemndobs&show_icons=true" />
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320" />
+  
 </picture>
-
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atemndobs&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/Atemndobs/Atemndobs">
   <picture>
